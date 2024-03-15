@@ -1,0 +1,11 @@
+{
+  "name": "silence-twitch-adds",
+  "version": "1.0.0",
+  "description": "Extension to auto-silence Twitch adds",
+  "main": "echo No main file",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "Aleksi Mäkinen <aleksimatias.makinen@gmail.com>",
+  "license": "MIT",
+}
